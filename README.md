@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kizyjura but people know me as Radley 
-- 👀 I’m interested in new ways to work and make money with my skillset 
+- 👋 Hi, I’m Kizyjura! 
+- 👀 I’m interested in new ways to work and make a living with my skillset 
 - 🌱 I’m currently learning to code  
 
 <!---
